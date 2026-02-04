@@ -9,7 +9,7 @@ This project demonstrates how binary search can optimize that process by reducin
 The program performs a binary search over a list of Costa Rican residents that is pre-sorted alphabetically by full name (first last name format, similar to real voter registries) and returns the index (voter number) if the person is found.
 
 ## Design notes   
-This project models a simplified election lookup scenario. A future improvement would be replacing or complementing the list with a dictionary to allow constant-time verification, for example tracking whether a person is registered or has already voted.
+This project models a simplified election lookup scenario. A future improvement would be using a dictionary to track voting status.
 
 ## Algorithm Used   
 Binary Search:

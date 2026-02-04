@@ -1,6 +1,6 @@
-costa_rican_residents = ["Montoya Alvarado Juan", "Montoya Benavides Claudia", "Montoya Castillo Carlos", "Montoya Duran Laura", 
-                         "Montoya Espinoza Ariel", "Montoya Flores Natalia", "Montoya Guillen Luis", "Montoya Hernandez Ana",
-                         "Montoya Iglesias Fabricio", "Montoya Jimenez Luz", "Montoya Leon David", "Montoya Montoya Boris"]
+costa_rican_residents = ["Montoya Alvarado Juan", "Montoya Benavides Claudia", "Montoya Castillo Carlos", "Montoya Durán Laura", 
+                         "Montoya Espinoza Ariel", "Montoya Flores Natalia", "Montoya Guillén Luis", "Montoya Hernández Ana",
+                         "Montoya Iglesias Fabricio", "Montoya Jiménez Luz", "Montoya León David", "Montoya Montoya Boris"]
 
 def binary_search(voter_list, target_voter):
     start, end = 0, len(voter_list) - 1
@@ -15,7 +15,7 @@ def binary_search(voter_list, target_voter):
     return None
 
 
-binary_search_result = binary_search(costa_rican_residents, "Montoya Flores Natalia")
+binary_search_result = binary_search(costa_rican_residents, "Montoya Montoya Boris")
 #binary_search_result = binary_search(costa_rican_residents, "Montoya Flores Susan")
 
 if binary_search_result is not None:

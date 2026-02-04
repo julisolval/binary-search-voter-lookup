@@ -17,6 +17,5 @@ Binary Search:
 - Time complexity: O(log n)
 - Efficient for large datasets
 
-Binary Search Walkthrough
-Visual step-by-step example below:
+Binary Search Walkthrough (visual step-by-step example)
 ![BinarySearch](https://github.com/user-attachments/assets/32eadc48-f45f-4d07-a7d5-7baf2c68d802)

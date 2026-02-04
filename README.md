@@ -1,4 +1,4 @@
-Binary Search – Voter Lookup
+Binary Search – Voter Lookup   
 This mini project implements a binary search algorithm in Python to simulate a voter lookup system.
 
 Motivation
